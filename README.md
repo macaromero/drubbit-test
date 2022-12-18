@@ -1,24 +1,20 @@
-# drubbit
+# drubbit-test
 
-## Project setup
-```
-npm install
-```
+## Introducción
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Esta aplicación es una prueba para la empresa **Drubbit**.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Inicio
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Para poder poner en funcionamiento la aplicación, hay que correr el comando **npm install**, de ese modo se descargan todas las dependencias. Luego se inicializa con **npm run serve**.
+
+
+## GIT
+
+https://github.com/macaromero/drubbit-test.git
+
+
+### Autoría
+
+**Macarena Romero** para la empresa Drubbit.
